@@ -1,0 +1,6 @@
+if game.PlaceId == "2686500207" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xMonkk/Samyhub/main/is-this-a-jojo-referenclool"))()
+end
+if game.PlaceId == "4520749081" or "5931540094" or "6381829480" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xMonkk/Samyhub/main/bongatongasonga"))()
+end
