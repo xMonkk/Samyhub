@@ -1,6 +1,8 @@
-if game.PlaceId == "2686500207" then
+if game:GetService("ReplicatedStorage"):FindFirstChild("Goku?"):FindFirstChild("goku") then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xMonkk/Samyhub/main/is-this-a-jojo-referenclool"))()
 end
+if game:GetService("ReplicatedStorage"):FindFirstChild("Goku?"):FindFirstChild("goku") == nil then
 if game.PlaceId == "4520749081" or "5931540094" or "6381829480" then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/xMonkk/Samyhub/main/bongatongasonga"))()
+end
 end
